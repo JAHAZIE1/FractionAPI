@@ -1,4 +1,4 @@
-# FractionAPI
+# Fraction Application Programmer's Interface
 
 ## Technology
 - Java
